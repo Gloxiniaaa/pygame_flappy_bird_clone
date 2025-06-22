@@ -1,7 +1,6 @@
 # Flappy Bird Clone
 
-This is my first Pygame game, a simple clone of Flappy Bird built with Python and Pygame. The game features a bird (white rectangle) that navigates through moving pipes (green rectangles) by jumping with the spacebar. The game starts with stationary objects, begins moving when you press the spacebar, and resets on collision. It includes audio effects for jumping, scoring, and collisions, a looping background music track, and a high score display. The game is framerate-independent for smooth gameplay across different systems.
-
+This is my first Pygame game, a simple clone of Flappy Bird built with Python and Pygame. The game features a bird (white rectangle) that navigates through moving pipes (green rectangles) by jumping with the spacebar. The game starts with stationary objects, begins moving when you press the spacebar, and resets on collision. It includes audio effects for jumping, scoring, and collisions, a looping background music track, and a high score display.
 ## How to Run the Game
 
 Follow these steps to set up and play the game:
